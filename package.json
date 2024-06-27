@@ -1,0 +1,19 @@
+{
+  "name": "hallbooking",
+  "version": "1.0.0",
+  "description": "Hall Booking Backend Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sugumar-MS/hallbooking.git"
+  },
+  "author": "\"sugumar\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sugumar-MS/hallbooking/issues"
+  },
+  "homepage": "https://github.com/sugumar-MS/hallbooking#readme"
+}
