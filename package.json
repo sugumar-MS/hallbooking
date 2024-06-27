@@ -4,16 +4,23 @@
   "description": "Hall Booking Backend Application",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev" : "nodemon index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sugumar-MS/hallbooking.git"
   },
-  "author": "\"sugumar\"",
+  "author": "sugumar",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sugumar-MS/hallbooking/issues"
   },
-  "homepage": "https://github.com/sugumar-MS/hallbooking#readme"
+  "homepage": "https://github.com/sugumar-MS/hallbooking#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.4.4",
+    "nodemon": "^3.1.4"
+  }
 }
